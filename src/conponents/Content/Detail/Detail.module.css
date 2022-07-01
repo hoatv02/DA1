@@ -1,0 +1,11 @@
+.img img {
+    width: 400px;
+    height: 400px;
+}
+
+.detail {
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto; 
+    grid-gap: 50px;
+}

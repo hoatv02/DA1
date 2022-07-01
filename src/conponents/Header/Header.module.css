@@ -1,0 +1,15 @@
+.Header{
+    background-color: aqua;
+    font-weight: 700;
+}
+.title_ul{
+    padding: 20px;
+    list-style: none;
+    display: inline-flex;
+}
+.title_li:hover{
+    color: red;
+}
+.title_li{
+    margin-left: 20px;
+}

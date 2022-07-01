@@ -1,0 +1,9 @@
+.product{
+    display: inline-flex;
+}
+.product img{
+    width: 200px;
+}
+.product_detail{
+    margin: 20px;
+}
